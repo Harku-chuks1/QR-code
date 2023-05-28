@@ -1,0 +1,35 @@
+img{
+display: block;
+max-width: 100%;
+border-radius: 0.5rem; 
+}
+body{
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    padding: 1rem;
+    font-family: 'Outfit', sans-serif;
+}
+.code{
+background-color: hsl(0, 0%, 100%);
+padding: 1rem;
+border-radius: 1rem;
+max-width: 20rem;
+}
+.text{
+    color: hsl(218, 44%, 22%);
+}
+p{
+    text-align: center;
+    font-weight: 400;
+    font-size: 1rem;
+    padding: 0.5em;
+
+}
+.text h1{
+    text-align: center;
+    font-weight: 700%;
+    font-size: 1.5rem;
+    
+}
